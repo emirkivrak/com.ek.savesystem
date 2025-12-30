@@ -21,7 +21,7 @@ namespace EK.SaveSystem.Editor
         private string testKey = "test_save";
         private string testValue = "{ \"testData\": \"Hello World\" }";
 
-        [MenuItem("Tools/EK/Save System Debug")]
+        [MenuItem("EK/Save System/Debug Window")]
         public static void ShowWindow()
         {
             var window = GetWindow<SaveSystemDebugWindow>("Save System Debug");
