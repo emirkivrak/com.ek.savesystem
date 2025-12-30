@@ -1,0 +1,27 @@
+{
+  "name": "com.ek.savesystem",
+  "version": "1.0.0",
+  "displayName": "EK Save System",
+  "description": "Production-ready save system for Unity mobile games with AES encryption, async operations, automatic backups, and versioning support. Provides secure local storage with easy-to-use async/await pattern.",
+  "unity": "2022.3",
+  "keywords": [
+    "save",
+    "persistence",
+    "encryption",
+    "async",
+    "mobile",
+    "storage"
+  ],
+  "category": "Data Management",
+  "author": {
+    "name": "Emir Kivrak",
+    "url": "https://github.com/emirkivrak/com.ek.savesystem"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.0",
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "samples": []
+}
+

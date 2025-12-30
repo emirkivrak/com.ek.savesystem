@@ -1,0 +1,19 @@
+{
+  "name": "com.ek.savesystem.editor",
+  "rootNamespace": "EK.SaveSystem.Editor",
+  "references": [
+    "com.ek.savesystem.runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
+
