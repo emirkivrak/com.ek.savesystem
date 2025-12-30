@@ -2,7 +2,8 @@
   "name": "com.ek.savesystem.editor",
   "rootNamespace": "EK.SaveSystem.Editor",
   "references": [
-    "com.ek.savesystem.runtime"
+    "com.ek.savesystem.runtime",
+    "UniTask"
   ],
   "includePlatforms": [
     "Editor"
